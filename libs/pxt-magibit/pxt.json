@@ -1,0 +1,19 @@
+{
+  "name": "Magibit",
+  "description": "Magibit package for Micro:bit",
+  "license": "MIT",
+  "dependencies": {
+    "core": "file:../core",
+    "minode": "file:../minode"
+  },
+  "files": [
+    "README.md",
+    "magibit.ts",
+    "_locales/zh/Magibit-strings.json"
+  ],
+  "testFiles": [
+    "magibitTest.ts"
+  ],
+  "public": true,
+  "installedVersion": "v18.516.31"
+}

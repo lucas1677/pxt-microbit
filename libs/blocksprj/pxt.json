@@ -1,13 +1,15 @@
 {
-    "name": "{0} block",
-    "dependencies": {
-        "core": "file:../core",
-        "radio": "file:../radio"
-    },
-    "description": "",
-    "files": [
-        "main.blocks",
-        "main.ts",
-        "README.md"
-    ]
+  "name": "{0} block",
+  "dependencies": {
+    "core": "file:../core",
+    "radio": "file:../radio",
+    "minode": "file:../minode",
+    "pxt-magibit": "file:../pxt-magibit"
+  },
+  "description": "",
+  "files": [
+    "main.blocks",
+    "main.ts",
+    "README.md"
+  ]
 }
